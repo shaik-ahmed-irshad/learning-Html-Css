@@ -1,0 +1,30 @@
+.main {
+    margin-top: 100px;    
+}
+
+.logo-img {
+    display: block;
+    width: 300px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input {
+    width: 400px;
+    line-height: 24px;
+
+    /* the line height property is the 
+    corrct way to add height in input feild */
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* padding: 10px 30px; */
+    padding-left:30px;
+    padding-right:30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}

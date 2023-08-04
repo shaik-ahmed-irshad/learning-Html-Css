@@ -1,0 +1,12 @@
+img {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+/* centering a div / element */
+/* 1. it must be a block element: so it can have all the sapce to the right to control it */
+/* 2. it must have a width: so it isnt too big for the browser  */
+/* 3. using margin approach: make margin-left & right to auto */
+/* as simple as that */

@@ -1,0 +1,23 @@
+body {
+    margin: 0px
+}
+
+.red {
+    /* margin-bottom: 100px; */
+    background: #c71226;
+    height: 100px;
+    /* margin-bottom: 15px; | margin not working?? its called collapsing margin */
+}
+
+.blue {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #0d1b88;
+    height: 70px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+}
+
